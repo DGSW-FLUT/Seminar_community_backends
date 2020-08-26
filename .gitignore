@@ -51,3 +51,5 @@ docs/_build/
 .venv
 .env
 .idea
+venv
+nginx-1.18.0
